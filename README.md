@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 <!-- Top Animated Wave -->
+<h1 align="center">Hey 👋, I'm Ratnesh Tripathi</h1>
 <p align="center">
   <img src="./assets/wave-top.svg" alt="Top Wave" width="100%">
 </p>
 
-<h1 align="center">Hey 👋, I'm Ratnesh Tripathi</h1>
+
 <h3 align="center">Final-year ECE Student • Aspiring Software Engineer • Frontend & Fullstack Developer</h3>
 
 ---
