@@ -16,7 +16,7 @@
   </defs>
 
   <!-- Clean Centered Text -->
-  <text x="50%" y="10" text-anchor="middle" fill="#ffffff" font-size="6" font-family="Verdana, sans-serif" font-weight="600">
+  <text x="50%" y="10" text-anchor="middle" fill="black" font-size="6" font-family="Verdana, sans-serif" font-weight="600">
     Hey 👋, I'm Ratnesh Tripathi
   </text>
 
