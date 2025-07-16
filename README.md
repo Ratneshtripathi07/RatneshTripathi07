@@ -13,8 +13,8 @@
 ### 👨‍💻 About Me
 
 - 🚀 I love building real-world projects that solve real problems.
-- 💡 Currently working on fullstack apps, smart city solutions, and creative interfaces.
-- 📚 Preparing for FAANG-level interviews with C++ & Python DSA.
+- 💡 Currently working on fullstack apps, innovative solutions, and creative interfaces.
+- 📚 Problem Solving in DS and Algos.
 - 🧠 Self-driven, focused, and always learning something new in tech.
 
 ---
@@ -29,13 +29,15 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
 
 ---
 
 ### 🌟 Highlight Projects
 
-- 🚦 [Smart City Platform (SIH 2024)](https://github.com/RatneshTripathi07) — For inter-departmental city coordination.
-- 🕹️ [Ramrajya Game](https://github.com/RatneshTripathi07/Ramrajya) — A classic 2D game using Python & Pygame.
+- 🚦 [Smart City Platform (SIH 2024)](https://github.com/Ratneshtripathi07/DPMP-SIH24-Project) — For inter-departmental city coordination.
+- 💬 [VartaLaap] (https://github.com/Ratneshtripathi07/Vartalaap) - Real time chat app project
 - 🔒 [Password Converter GUI](https://github.com/RatneshTripathi07/Password-Converter) — Tkinter-based secure password app.
 
 ---
@@ -44,7 +46,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rgt01)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/RatneshTripathi07)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-E4405F?style=flat&logo=firefox-browser&logoColor=white)](https://ratneshtripathi.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-E4405F?style=flat&logo=firefox-browser&logoColor=white)](https://ratnesh07.serv00.net)
 
 ---
 
