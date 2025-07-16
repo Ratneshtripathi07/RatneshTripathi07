@@ -37,7 +37,7 @@
 ### 🌟 Highlight Projects
 
 - 🚦 [Smart City Platform (SIH 2024)](https://github.com/Ratneshtripathi07/DPMP-SIH24-Project) — For inter-departmental city coordination.
-- 💬 [VartaLaap] (https://github.com/Ratneshtripathi07/Vartalaap) - Real time chat app project
+- 💬 [VartaLaap](https://github.com/Ratneshtripathi07/Vartalaap) - Real time chat app project
 - 🔒 [Password Converter GUI](https://github.com/RatneshTripathi07/Password-Converter) — Tkinter-based secure password app.
 
 ---
