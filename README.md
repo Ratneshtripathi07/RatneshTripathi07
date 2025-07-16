@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Top Animated Wave -->
 <!--  <h1 align="center">Hey 👋, I'm Ratnesh Tripathi</h1> -->
 
