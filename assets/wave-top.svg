@@ -1,5 +1,6 @@
 <svg viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-  <defs>
+   <rect width="120" height="40" fill="#E6E6FA" /> <!-- Lavender Background -->
+ <defs>
     <!-- Gradients for Waves -->
     <linearGradient id="waveGradient1" gradientTransform="rotate(90)">
       <stop offset="0%" stop-color="#0f2027"/>
