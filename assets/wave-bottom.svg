@@ -1,0 +1,17 @@
+<svg viewBox="0 0 120 28" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="grad2" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#1c1c1c" />
+      <stop offset="100%" stop-color="#232526" />
+    </linearGradient>
+  </defs>
+  <path d="M0,10 Q30,35 60,20 Q90,5 120,30 V0 H0 Z" fill="url(#grad2)">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0,10 Q30,35 60,20 Q90,5 120,30 V0 H0 Z;
+        M0,10 Q30,25 60,10 Q90,15 120,20 V0 H0 Z;
+        M0,10 Q30,35 60,20 Q90,5 120,30 V0 H0 Z
+      "
+    />
+  </path>
+</svg>
