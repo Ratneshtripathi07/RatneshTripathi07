@@ -1,4 +1,4 @@
-<svg viewBox="0 0 120 28" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+<svg viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
   <defs>
     <linearGradient id="waveGradient1" gradientTransform="rotate(90)">
       <stop offset="0%" stop-color="#0f2027"/>
@@ -13,30 +13,30 @@
       <stop offset="100%" stop-color="#0f2027"/>
     </linearGradient>
   </defs>
-  <path d="M0,30 Q30,15 60,30 T120,30 V100 H0 Z" fill="url(#waveGradient1)">
+  <path d="M0,30 Q30,15 60,30 T120,30 V30 H0 Z" fill="url(#waveGradient1)">
     <animate attributeName="d" dur="8s" repeatCount="indefinite"
       values="
-        M0,30 Q30,15 60,30 T120,30 V100 H0 Z;
-        M0,30 Q30,25 60,20 T120,30 V100 H0 Z;
-        M0,30 Q30,15 60,30 T120,30 V100 H0 Z
+        M0,30 Q30,15 60,30 T120,30 V30 H0 Z;
+        M0,30 Q30,25 60,20 T120,30 V30 H0 Z;
+        M0,30 Q30,15 60,30 T120,30 V30 H0 Z
       "
     />
   </path>
-  <path d="M0,30 Q30,20 60,25 T120,30 V100 H0 Z" fill="url(#waveGradient2)" opacity="0.7">
+  <path d="M0,30 Q30,20 60,25 T120,30 V30 H0 Z" fill="url(#waveGradient2)" opacity="0.7">
     <animate attributeName="d" dur="10s" repeatCount="indefinite"
       values="
-        M0,30 Q30,20 60,25 T120,30 V100 H0 Z;
-        M0,30 Q30,10 60,30 T120,30 V100 H0 Z;
-        M0,30 Q30,20 60,25 T120,30 V100 H0 Z
+        M0,30 Q30,20 60,25 T120,30 V30 H0 Z;
+        M0,30 Q30,10 60,30 T120,30 V30 H0 Z;
+        M0,30 Q30,20 60,25 T120,30 V30 H0 Z
       "
     />
   </path>
-  <path d="M0,30 Q30,25 60,20 T120,30 V100 H0 Z" fill="url(#waveGradient3)" opacity="0.5">
+  <path d="M0,30 Q30,25 60,20 T120,30 V30 H0 Z" fill="url(#waveGradient3)" opacity="0.5">
     <animate attributeName="d" dur="12s" repeatCount="indefinite"
       values="
-        M0,30 Q30,25 60,20 T120,30 V100 H0 Z;
-        M0,30 Q30,15 60,30 T120,30 V100 H0 Z;
-        M0,30 Q30,25 60,20 T120,30 V100 H0 Z
+        M0,30 Q30,25 60,20 T120,30 V30 H0 Z;
+        M0,30 Q30,15 60,30 T120,30 V30 H0 Z;
+        M0,30 Q30,25 60,20 T120,30 V30 H0 Z
       "
     />
   </path>
