@@ -59,13 +59,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2196f3/RatneshTripathi07" alt="GitHub Contribution Heatmap" />
-</p>
-
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RatneshTripathi07&show_icons=true&theme=github_dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RatneshTripathi07&theme=github-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RatneshTripathi07&bg_color=0d1117&color=2196f3&line=2196f3&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
