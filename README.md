@@ -50,6 +50,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/RatneshTripathi07)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-E4405F?style=flat&logo=firefox-browser&logoColor=white)](https://ratnesh07.serv00.net)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ratnesh___tripathi/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rgtworkj25@gmail.com)
+
 
 
 ---
