@@ -59,7 +59,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RatneshTripathi07&theme=github-compact" alt="GitHub Streak Heatmap" />
+  <img src="https://ghchart.rshah.org/2196f3/RatneshTripathi07" alt="GitHub Contribution Heatmap" />
 </p>
 
 
