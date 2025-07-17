@@ -48,6 +48,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rgt01)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/RatneshTripathi07)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-E4405F?style=flat&logo=firefox-browser&logoColor=white)](https://ratnesh07.serv00.net)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ratnesh___tripathi/)
+
 
 ---
 
