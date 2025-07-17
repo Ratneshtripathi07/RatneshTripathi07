@@ -71,7 +71,7 @@
 
 <!-- Bottom Animated Waves -->
 <p align="center">
-  <img src="./assets/wave-bottom.svg" alt="Bottom Wave" width="100%">
+  <img src="./assets/RGTdevs-heatmap.svg" alt="Bottom Wave" width="100%">
 </p>
 
   <!-- Your content here -->
