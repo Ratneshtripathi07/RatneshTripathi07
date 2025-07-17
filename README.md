@@ -1,3 +1,4 @@
+<div style="background:#E6E6FA; padding: 20px; border-radius: 10px;">
 <!-- Top Animated Wave -->
 <!--  <h1 align="center">Hey 👋, I'm Ratnesh Tripathi</h1> -->
 
@@ -64,3 +65,5 @@
   <img src="./assets/wave-bottom.svg" alt="Bottom Wave" width="100%">
 </p>
 
+  <!-- Your content here -->
+</div>
