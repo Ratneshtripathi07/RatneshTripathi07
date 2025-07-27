@@ -1,6 +1,4 @@
 <div style="background:#E6E6FA; padding: 20px; border-radius: 10px;">
-<!-- Top Animated Wave -->
-<!--  <h1 align="center">Hey 👋, I'm Ratnesh Tripathi</h1> -->
 
 <p align="center">
   <img src="./assets/wave-top.svg" alt="Top Wave" width="100%">
@@ -73,6 +71,4 @@
 <p align="center">
   <img src="./assets/RGTdevs-heatmap.svg" alt="Bottom Wave" width="100%">
 </p>
-
-  <!-- Your content here -->
 </div>
