@@ -5,7 +5,7 @@
 </p>
 
 
-<h3 align="center">Final-year ECE Student • Aspiring Software Engineer • Frontend & Fullstack Developer</h3>
+<h3 align="center">Final-year ECE Student • Aspiring Software Engineer • Fullstack Dev</h3>
 
 ---
 
