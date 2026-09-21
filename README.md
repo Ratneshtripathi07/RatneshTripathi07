@@ -32,13 +32,13 @@
 <h2>About :</h2>
 
 <p>
-I'm <strong>Ratnesh Tripathi</strong>, aka <strong>RGTdevs</strong> —
+I'm <strong>Ratnesh Tripathi</strong>, aka <strong>RGTdev</strong> —
 a Software Engineer who enjoys turning ideas into working products.
 </p>
 
 <p>
 I build <strong>full-stack applications, AI-powered systems and
-developer-focused solutions</strong> — from designing APIs and databases
+developer-focused solutions</strong> - from designing APIs and databases
 to deploying production-ready applications.
 </p>
 
